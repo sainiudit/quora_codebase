@@ -1,0 +1,303 @@
+{
+  "jsondata": [
+    {
+      "mediaId": "1",
+      "mediaTitle": "Radio 360 Australia",
+      "mediaDescription": "Our 24/7 Hinglish channel (RADIO 360), streaming LIVE via our website, reaching out to 107,000 + (Jan 2017 Stats ) listener's daily worldwide.",
+      "mediaUrl": "http://radio360aust.ddns.net:88/broadwave.mp3",
+      "mediaImage": "https://cdn-profiles.tunein.com/s148872/images/logoq.png?t=152948"
+    },
+    {
+      "mediaId": "3",
+      "mediaTitle": "Radio Namkin- Ek Dum",
+      "mediaDescription": "Radio Namkin- Ek Dum Zabardast (True Dolby HD Stereo) Premium Hand Picked, and Rare Revival Collection of Hindi Bollywood Super Hits in True Dolby HD Stereo! Premium Stereophonic Golden Classics from the 70`s, 80`s & 90`s era! Highly Addictive!",
+      "mediaUrl": "http://ample-zeno-05.radiojar.com/yg1qhsbaqv5tv?rj-ttl=5&rj-token=AAABZfNFmTj5T6aL1dvDvSTZWnM2Y7iEEFQzMisoYuFh9tmmWYfRCA",
+      "mediaImage": "https://cdn-profiles.tunein.com/s302082/images/logoq.png"
+    },
+    {
+      "mediaId": "4",
+      "mediaTitle": "radioBollyFM",
+      "mediaDescription": "Listen to Bollywood Radio and get daily dose of hot and exclusive updates from Bollywood, Fashion, Shopping, Lifestyle, Travel, Foods, Technology all completely free on radioBollyFM",
+      "mediaUrl": "http://stream.radiobollyfm.in:8201/hd",
+      "mediaImage": "https://cdn-profiles.tunein.com/s121492/images/logoq.png"
+    },
+    {
+      "mediaId": "5",
+      "mediaTitle": "Radio HSL",
+      "mediaDescription": "India's first and No.1, Top 40 Superhits Bollywood station. Like us on facebook.com/radiohsl",
+      "mediaUrl": "http://50.7.68.251:7064/stream",
+      "mediaImage": "https://cdn-profiles.tunein.com/s124352/images/logoq.jpg"
+    },
+    {
+      "mediaId": "6",
+      "mediaTitle": "Radio Mirchi",
+      "mediaDescription": "If you too are craving for something sweet, Meethi mirchi is your station.",
+      "mediaUrl": "http://peridot.streamguys.com:7150/Mirchi",
+      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/cVVcTMJBcm.png"
+    },
+    {
+      "mediaId": "7",
+      "mediaTitle": "Radio Sharda India",
+      "mediaDescription": "If you too are craving for something sweet, Meethi mirchi is your station.",
+      "mediaUrl": "http://s8.voscast.com:7738/stream/1/",
+      "mediaImage": "http://db.radioline.fr/pictures/radio_797742757be7dfc780a4ea19d60b5025/logo200.jpg"
+    },
+    {
+      "mediaId": "8",
+      "mediaTitle": "Radio Madhuban",
+      "mediaDescription": "If you too are craving for something sweet, Meethi mirchi is your station.",
+      "mediaUrl": "http://icecast.bkwsu.eu/radiomadhuban.ogg",
+      "mediaImage": "https://onlineradiofm.in/assets/image/radio/180/Radio%20Madhuban.png"
+    },
+    {
+      "mediaId": "9",
+      "mediaTitle": "Radio City 91.1 FM",
+      "mediaDescription": "Radio City 91.1FM, the best and largest place for music discovery from across 39 cities. Explore information about our FM radio stations, regional channel programs, podcasts, popular radio jockeys or simply connect to any channel frequency.",
+      "mediaUrl": "http://prclive1.listenon.in:9960/;",
+      "mediaImage": "https://media.glassdoor.com/sqll/516313/radiocity-91-1-fm-squarelogo.png"
+    },
+    {
+      "mediaId": "10",
+      "mediaTitle": "Planet Radio City Tamil",
+      "mediaDescription": "Broadcasting from India, this is a radio station that belongs to Planet Radio City. It broadcasts in Tamil language and its programming is dedicated to music contents, specially Tamil music.",
+      "mediaUrl": "http://prclive1.listenon.in:9948/;",
+      "mediaImage": "http://www.ymirchi.com/wp-content/uploads/2015/04/radio-city-fm-300x300.jpg"
+    },
+    {
+      "mediaId": "11",
+      "mediaTitle": "Chennai FM Rainbow 101.4",
+      "mediaDescription": "Chennai FM Rainbow is a radio station that belongs to All India Radio network. It broadcasts from Chennai, Tamil Nadu, India, in Tamil and its contents focus mostly on music, namely Bollywood music.",
+      "mediaUrl": "http://icecast.bkwsu.eu/radiomadhuban.ogg",
+      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pWmZgff3nj.jpeg"
+    },
+    {
+      "mediaId": "12",
+      "mediaTitle": "All India Radio FM Gold",
+      "mediaDescription": "",
+      "mediaUrl": "http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8?sd=10&rebase=on",
+      "mediaImage": "https://onlineradiofm.in/assets/image/radio/180/fmgold1001.jpg"
+    },
+    {
+      "mediaId": "13",
+      "mediaTitle": "Cyber FM India",
+      "mediaDescription": "",
+      "mediaUrl": "http://music.cyber-fm.com:8000/Cyber-FM.mp3",
+      "mediaImage": "https://cyber-fm.com/images/cfm-logo-new_with_wifi.png"
+    },
+    {
+      "mediaId": "14",
+      "mediaTitle": "Suvidha Radio Hindi",
+      "mediaDescription": "",
+      "mediaUrl": "http://176.31.107.8:8927/live",
+      "mediaImage": "http://www.liveonlineradio.net/wp-content/uploads/2011/12/Logo-Suvidha-2.jpg"
+    },
+    {
+      "mediaId": "15",
+      "mediaTitle": "Radio City Fusion",
+      "mediaDescription": "",
+      "mediaUrl": "http://prclive1.listenon.in:8992/;",
+      "mediaImage": "http://www.radioonlinelive.com/wp-content/uploads/2018/01/Radio-City-Fusion.jpg"
+    },
+    {
+      "mediaId": "16",
+      "mediaTitle": "Desi Junction Radio Hindi",
+      "mediaDescription": "",
+      "mediaUrl": "http://s9.viastreaming.net:9475/;",
+      "mediaImage": "http://fmradios.in/wp-content/uploads/2015/07/Desi-Junction-Bollywood-Radio-from-Chicago-Live-300x278.jpg"
+    },
+    {
+      "mediaId": "17",
+      "mediaTitle": "Desi World Radio Hindi",
+      "mediaDescription": "",
+      "mediaUrl": "http://ample-zeno-08.radiojar.com/4mbfcn4mf24tv?rj-ttl=5&rj-token=AAABZbkv5FLhtkAo8s9Vkn6CR9FPuKFjDrbgOEBypb4RFUmjgIAnVg",
+      "mediaImage": "http://fmradios.in/wp-content/uploads/2015/07/Desi-World-Radio-Online-Hind-FM-Live-Streaming-300x168.jpg"
+    },
+    {
+      "mediaId": "18",
+      "mediaTitle": "Radio Chann Pardesi",
+      "mediaDescription": "",
+      "mediaUrl": "http://mehramedia.com:8021/;",
+      "mediaImage": "http://channpardesi.com/wp-content/uploads/2015/08/logo3-12.png"
+    },
+    {
+      "mediaId": "19",
+      "mediaTitle": "Ujala Radio FM Hindi",
+      "mediaDescription": "",
+      "mediaUrl": "http://stream2.ujala.nl/stream/2/listen.mp3",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s81479q.png"
+    },
+    {
+      "mediaId": "20",
+      "mediaTitle": "Radio City Ghazal",
+      "mediaDescription": "",
+      "mediaUrl": "http://prclive1.listenon.in:8860/;",
+      "mediaImage": "https://www.radiocity.in//images/other-channels/other-gallery/gallery-ghazal-20151448622307.jpg"
+    },
+    {
+      "mediaId": "21",
+      "mediaTitle": "Radio Sports Flashes",
+      "mediaDescription": "",
+      "mediaUrl": "http://perseus.shoutca.st:9373/live",
+      "mediaImage": "https://images.sportsflashes.com/1516878245-Radio_Logo.jpg"
+    },
+    {
+      "mediaId": "22",
+      "mediaTitle": "Bollywood Radio and Beyond",
+      "mediaDescription": "",
+      "mediaUrl": "http://185.80.220.12:8046/stream",
+      "mediaImage": "http://fmradios.in/wp-content/uploads/2015/07/Bollywood-Radio-and-Beyond-Hindi-FM-Live-Streaming-Online-1.jpg"
+    },
+    {
+      "mediaId": "23",
+      "mediaTitle": "Hindi Desi Bollywood Evergreen Hits",
+      "mediaDescription": "A consistently popular Hindi song station on Shoutcast, and Tune-in. Runs 24/7",
+      "mediaUrl": "http://192.240.102.133:11454/stream",
+      "mediaImage": "http://www.godesi.com/m/photos/get_image/browse/d4c82005606362d2bc09bfa98b6593ca.jpg"
+    },
+    {
+      "mediaId": "24",
+      "mediaTitle": "GotRadio Musical Magic",
+      "mediaDescription": "Music magic from the best Hollywood and Broadway musicals of all time.",
+      "mediaUrl": "http://pureplay.cdnstream1.com/6002_128.mp3",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s49666q.png"
+    },
+    {
+      "mediaId": "25",
+      "mediaTitle": "Akash Vani Radio",
+      "mediaDescription": "New York #1 West Indian Radio Station, playing the best in Bollywood today and yesteryears",
+      "mediaUrl": "http://eu8.fastcast4u.com:5484/1/",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s282896q.png"
+    },
+    {
+      "mediaId": "26",
+      "mediaTitle": "TG9 Fm",
+      "mediaDescription": "Bollywood Tollywood and Best English Songs and Energetic Entertainers Sweeping the internet Waves",
+      "mediaUrl": "http://s6.voscast.com:10596/;",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s253865q.png"
+    },
+    {
+      "mediaId": "27",
+      "mediaTitle": "Sada Bahar Music Radio",
+      "mediaDescription": "Online 24 X 7 non stop evergreen hindi music radio playing sada bahar songs of Kishore Kumar, Lata Mangeshkar, Mukesh, Mohammad Rafi",
+      "mediaUrl": "http://192.240.102.133:8512/stream",
+      "mediaImage": "https://onlineradiofm.in/assets/image/radio/180/Sada%20Bahar%20Music%20Radio.jpg"
+    },
+    {
+      "mediaId": "28",
+      "mediaTitle": "Radio Retro Bollywood",
+      "mediaDescription": "This radio is for those who are looking for 80's, 90's and 2000 movie songs",
+      "mediaUrl": "http://64.71.79.181:5124/stream?1505228937567.mp3",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s297733q.png"
+    },
+    {
+      "mediaId": "29",
+      "mediaTitle": "Bollywood Muziq Zone",
+      "mediaDescription": "South Asian Radio 24 x 7 = 365 days",
+      "mediaUrl": "http://67.231.248.130:9984/;",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s243095q.png"
+    },
+    {
+      "mediaId": "30",
+      "mediaTitle": "Bollybeatz",
+      "mediaDescription": "Playing latest remix and party songs from Bollywood",
+      "mediaUrl": "http://stream.radio.co/se14f2c7e3/listen",
+      "mediaImage": "https://cdn-profiles.tunein.com/s293229/images/logoq.png?t=636364"
+    },
+    {
+      "mediaId": "31",
+      "mediaTitle": "1.FM - Bombay Beats India Radio",
+      "mediaDescription": "1.FM is a free online radio network broadcasting a variety of internet radio channels covering various music genres",
+      "mediaUrl": "http://strm112.1.fm/bombaybeats_mobile_mp3",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s47725q.png"
+    },
+    {
+      "mediaId": "32",
+      "mediaTitle": "Dance Radio",
+      "mediaDescription": "Dance Radio is een Amsterdams radiostation gemaakt voor de liefhebbers van souldance muziek.",
+      "mediaUrl": "http://stream.danceradio.nl:9920/dr-stream01",
+      "mediaImage": "https://bhvdtp.com/image/thumb/s-0/03577169f39fb5b82f10ec5d2908d8c5.jpg"
+    },
+    {
+      "mediaId": "33",
+      "mediaTitle": "Radio Dil",
+      "mediaDescription": "Radio Dil serves South Asians across New Jersey, New york and worldwide on the internet",
+      "mediaUrl": "http://50.22.253.45/radiodil",
+      "mediaImage": "http://3.bp.blogspot.com/-0SD0POQPXQg/TqxsApRSRUI/AAAAAAAAAAo/AYQN6dwUB3E/s1600/RD-LOGO.jpg"
+    },
+    {
+      "mediaId": "34",
+      "mediaTitle": "Sangeet 106.1",
+      "mediaDescription": "On September 24th 1995 TBC launched its fourth Station Sangeet 106.1FM",
+      "mediaUrl": "http://ample-zeno-11.radiojar.com/yb2cah8rs74tv?rj-ttl=5&rj-token=AAABZkAvIrJG2-SUK4V_OKvXWfNvvjabAM4lW2awjfVUKhRaf8mm7A",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s117888q.png"
+    },
+    {
+      "mediaId": "35",
+      "mediaTitle": "Desh Punjab Radio",
+      "mediaDescription": "Bollywood",
+      "mediaUrl": "http://new.deshpunjabradio.com:8000/rdp.mp3",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s122478q.png"
+    },
+    {
+      "mediaId": "36",
+      "mediaTitle": "Pakistani Radio",
+      "mediaDescription": "Online web Radio Station here You can Listen verity of Bollywood Pakistani and English Songs",
+      "mediaUrl": "http://radiopaki.funnypaki.com:8886/;",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s283043q.png"
+    },
+    {
+      "mediaId": "37",
+      "mediaTitle": "SBS PopDesi",
+      "mediaDescription": "SBS PopDesi - non-stop Desi pop. The best Bollywood, Bhangra and Desi pop",
+      "mediaUrl": "http://sbs-ice.streamguys1.com/sbs-popdesi",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s190441q.png"
+    },
+    {
+      "mediaId": "38",
+      "mediaTitle": "Desi Junction Radio",
+      "mediaDescription": "Desi Junction World Wide Radio Live from Chicago Rocking Bollywood Music",
+      "mediaUrl": "http://s9.viastreaming.net:9475/;",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s112648q.png"
+    },
+    {
+      "mediaId": "39",
+      "mediaTitle": "Mehefil Radio",
+      "mediaDescription": "Mehefil Radio is a internet radio project intended to broadcast Bollywood, Indian,Hindi, Desi music",
+      "mediaUrl": "http://streaming.radionomy.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.9",
+      "mediaImage": "https://cdn-profiles.tunein.com/s106929/images/logoq.jpg?t=153857"
+    },
+    {
+      "mediaId": "40",
+      "mediaTitle": "Sound Asia FM",
+      "mediaDescription": "Sound Asia is a community based Asian Radio Station with deep roots in the Indian Sub continent",
+      "mediaUrl": "http://196.207.21.198:88/stream",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s123481q.png"
+    },
+    {
+      "mediaId": "41",
+      "mediaTitle": "bollybop",
+      "mediaDescription": "bollybop is Tauranga's first and only 24/7 Indian Radio Station, playing the latest Bollywood, Hindi and Punjabi Hits.",
+      "mediaUrl": "http://majestic.wavestreamer.com:7737/;",
+      "mediaImage": "https://streamitter.com/images/logos/THUIY1.png"
+    },
+    {
+      "mediaId": "41",
+      "mediaTitle": "Himal Radio - Hindi Filmy",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://144.76.110.138:9920/;",
+      "mediaImage": "https://pbs.twimg.com/profile_images/733282776619737088/MY-LfsTg.jpg"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
