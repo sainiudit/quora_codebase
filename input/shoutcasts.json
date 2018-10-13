@@ -36,13 +36,6 @@
       "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/cVVcTMJBcm.png"
     },
     {
-      "mediaId": "7",
-      "mediaTitle": "Radio Sharda India",
-      "mediaDescription": "If you too are craving for something sweet, Meethi mirchi is your station.",
-      "mediaUrl": "http://s8.voscast.com:7738/stream/1/",
-      "mediaImage": "http://db.radioline.fr/pictures/radio_797742757be7dfc780a4ea19d60b5025/logo200.jpg"
-    },
-    {
       "mediaId": "8",
       "mediaTitle": "Radio Madhuban",
       "mediaDescription": "If you too are craving for something sweet, Meethi mirchi is your station.",
@@ -57,93 +50,79 @@
       "mediaImage": "https://media.glassdoor.com/sqll/516313/radiocity-91-1-fm-squarelogo.png"
     },
     {
-      "mediaId": "10",
-      "mediaTitle": "Planet Radio City Tamil",
-      "mediaDescription": "Broadcasting from India, this is a radio station that belongs to Planet Radio City. It broadcasts in Tamil language and its programming is dedicated to music contents, specially Tamil music.",
-      "mediaUrl": "http://prclive1.listenon.in:9948/;",
-      "mediaImage": "http://www.ymirchi.com/wp-content/uploads/2015/04/radio-city-fm-300x300.jpg"
-    },
-    {
-      "mediaId": "11",
-      "mediaTitle": "Chennai FM Rainbow 101.4",
-      "mediaDescription": "Chennai FM Rainbow is a radio station that belongs to All India Radio network. It broadcasts from Chennai, Tamil Nadu, India, in Tamil and its contents focus mostly on music, namely Bollywood music.",
-      "mediaUrl": "http://icecast.bkwsu.eu/radiomadhuban.ogg",
-      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pWmZgff3nj.jpeg"
-    },
-    {
       "mediaId": "12",
       "mediaTitle": "All India Radio FM Gold",
-      "mediaDescription": "",
-      "mediaUrl": "http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8?sd=10&rebase=on",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/master.m3u8",
       "mediaImage": "https://onlineradiofm.in/assets/image/radio/180/fmgold1001.jpg"
     },
     {
       "mediaId": "13",
       "mediaTitle": "Cyber FM India",
-      "mediaDescription": "",
+      "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://music.cyber-fm.com:8000/Cyber-FM.mp3",
       "mediaImage": "https://cyber-fm.com/images/cfm-logo-new_with_wifi.png"
     },
     {
       "mediaId": "14",
       "mediaTitle": "Suvidha Radio Hindi",
-      "mediaDescription": "",
+      "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://176.31.107.8:8927/live",
       "mediaImage": "http://www.liveonlineradio.net/wp-content/uploads/2011/12/Logo-Suvidha-2.jpg"
     },
     {
       "mediaId": "15",
       "mediaTitle": "Radio City Fusion",
-      "mediaDescription": "",
+      "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://prclive1.listenon.in:8992/;",
       "mediaImage": "http://www.radioonlinelive.com/wp-content/uploads/2018/01/Radio-City-Fusion.jpg"
     },
     {
       "mediaId": "16",
       "mediaTitle": "Desi Junction Radio Hindi",
-      "mediaDescription": "",
+      "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://s9.viastreaming.net:9475/;",
       "mediaImage": "http://fmradios.in/wp-content/uploads/2015/07/Desi-Junction-Bollywood-Radio-from-Chicago-Live-300x278.jpg"
     },
     {
       "mediaId": "17",
       "mediaTitle": "Desi World Radio Hindi",
-      "mediaDescription": "",
+      "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://ample-zeno-08.radiojar.com/4mbfcn4mf24tv?rj-ttl=5&rj-token=AAABZbkv5FLhtkAo8s9Vkn6CR9FPuKFjDrbgOEBypb4RFUmjgIAnVg",
       "mediaImage": "http://fmradios.in/wp-content/uploads/2015/07/Desi-World-Radio-Online-Hind-FM-Live-Streaming-300x168.jpg"
     },
     {
       "mediaId": "18",
       "mediaTitle": "Radio Chann Pardesi",
-      "mediaDescription": "",
+      "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://mehramedia.com:8021/;",
       "mediaImage": "http://channpardesi.com/wp-content/uploads/2015/08/logo3-12.png"
     },
     {
       "mediaId": "19",
       "mediaTitle": "Ujala Radio FM Hindi",
-      "mediaDescription": "",
+      "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://stream2.ujala.nl/stream/2/listen.mp3",
       "mediaImage": "https://cdn-radiotime-logos.tunein.com/s81479q.png"
     },
     {
       "mediaId": "20",
       "mediaTitle": "Radio City Ghazal",
-      "mediaDescription": "",
+      "mediaDescription": "Soul music .... all ghazals",
       "mediaUrl": "http://prclive1.listenon.in:8860/;",
       "mediaImage": "https://www.radiocity.in//images/other-channels/other-gallery/gallery-ghazal-20151448622307.jpg"
     },
     {
       "mediaId": "21",
       "mediaTitle": "Radio Sports Flashes",
-      "mediaDescription": "",
+      "mediaDescription": "Storts news",
       "mediaUrl": "http://perseus.shoutca.st:9373/live",
       "mediaImage": "https://images.sportsflashes.com/1516878245-Radio_Logo.jpg"
     },
     {
       "mediaId": "22",
       "mediaTitle": "Bollywood Radio and Beyond",
-      "mediaDescription": "",
+      "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://185.80.220.12:8046/stream",
       "mediaImage": "http://fmradios.in/wp-content/uploads/2015/07/Bollywood-Radio-and-Beyond-Hindi-FM-Live-Streaming-Online-1.jpg"
     },
@@ -152,7 +131,7 @@
       "mediaTitle": "Hindi Desi Bollywood Evergreen Hits",
       "mediaDescription": "A consistently popular Hindi song station on Shoutcast, and Tune-in. Runs 24/7",
       "mediaUrl": "http://192.240.102.133:11454/stream",
-      "mediaImage": "http://www.godesi.com/m/photos/get_image/browse/d4c82005606362d2bc09bfa98b6593ca.jpg"
+      "mediaImage": "https://radiosindia.com/images/hindidesibollywoodevergreenhits.jpg"
     },
     {
       "mediaId": "24",
@@ -281,11 +260,291 @@
       "mediaImage": "https://streamitter.com/images/logos/THUIY1.png"
     },
     {
-      "mediaId": "41",
+      "mediaId": "42",
+      "mediaTitle": "Aakashvani 106.5 FM",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://media.guardian.co.tt:8000/aakashvaniradio",
+      "mediaImage": "https://upload.wikimedia.org/wikipedia/en/0/0d/Aakash_Vani_106.5FM.jp"
+    },
+    {
+      "mediaId": "81",
       "mediaTitle": "Himal Radio - Hindi Filmy",
       "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://144.76.110.138:9920/;",
       "mediaImage": "https://pbs.twimg.com/profile_images/733282776619737088/MY-LfsTg.jpg"
+    },
+    {
+      "mediaId": "43",
+      "mediaTitle": "Abee Radio",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://50.7.99.163:16182/;stream.mp3",
+      "mediaImage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Abee-Radio.jpg"
+    },
+    {
+      "mediaId": "44",
+      "mediaTitle": "Ama Radio",
+      "mediaDescription": "Ama Radio is originally a full time mix station very popular through Indian. Ama Radio has been broadcasting on air and online from Indian",
+      "mediaUrl": "http://192.240.102.3:8922/live/;stream.mp3",
+      "mediaImage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Ama-Radio.jpg"
+    },
+    {
+      "mediaId": "45",
+      "mediaTitle": "Amor Radio",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://167.114.118.120:7450/;",
+      "mediaImage": "https://1.bp.blogspot.com/-LBIz2_2T1RQ/UlFibwDjnTI/AAAAAAAAD0o/w7oF0XZOhkg/s1600/radioamor.jpg"
+    },
+    {
+      "mediaId": "46",
+      "mediaTitle": "AIR FM Rainbow",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8",
+      "mediaImage": "https://image.slidesharecdn.com/airfmrainbowrelaunch-100129092700-phpapp01/95/air-fm-rainbow-relaunch-1-728.jpg?cb=1264757246"
+    },
+    {
+      "mediaId": "48",
+      "mediaTitle": "AIR Raagam",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/index_1_a-p.m3u8?sd=10&rebase=on",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s267066d.png"
+    },
+    {
+      "mediaId": "49",
+      "mediaTitle": "AIR Vividh Bharati",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8",
+      "mediaImage": "http://www.bikashmohanty.com/content/images/news/193/list.jpeg"
+    },
+    {
+      "mediaId": "50",
+      "mediaTitle": "Apna eRadio Classics",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://www.apnaeradio.com:8300/;",
+      "mediaImage": "http://www.liveonlineradio.net/wp-content/uploads/2010/11/Apna-eRadio.jpg"
+    },
+    {
+      "mediaId": "52",
+      "mediaTitle": "Australian Indian Hindi",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://101.187.125.210:8000/;",
+      "mediaImage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Australian-Indian-Radio.jpg"
+    },
+    {
+      "mediaId": "53",
+      "mediaTitle": "Awaz 107.2 FM",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://icecast.commedia.org.uk:8000/awaz.mp3?type=.mp3/;stream.mp3",
+      "mediaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILRhxAk1t8GJ0sPOerUYL0SWf1vaPG1ojn9P4tCzDDBMv5Mxz"
+    },
+    {
+      "mediaId": "54",
+      "mediaTitle": "BBC Asian Network",
+      "mediaDescription": "Non stop hindi news",
+      "mediaUrl": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_q?s=1511900489&e=1511914889&r=159290&h=27dcaa20987190f048b3e0a2efddbdee?retry=1",
+      "mediaImage": "http://db.radioline.fr/pictures/radio_7eecc75ba04b6b782a21729a4827f0ab/logo200.jpg?size=200"
+    },
+    {
+      "mediaId": "47",
+      "mediaTitle": "AIR National News",
+      "mediaDescription": "Non stop hindi news",
+      "mediaUrl": "http://newsonair.nic.in/writereaddata/broadcast/Hindi-Main-Bulletins-57065.mp3",
+      "mediaImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Logo_of_AIR.svg/1200px-Logo_of_AIR.svg.png"
+    },
+    {
+      "mediaId": "55",
+      "mediaTitle": "BBC Hindi News (6:30am, 7:30pm IST)",
+      "mediaDescription": "Non stop hindi news",
+      "mediaUrl": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup?type=.mp3",
+      "mediaImage": "http://www.all-radios.in/sites/default/files/styles/card_medium2/public/radio/bbc-hindi-india.png?itok=EEh9kDNP"
+    },
+    {
+      "mediaId": "56",
+      "mediaTitle": "Big FM - Dubai",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://209.15.226.17:9016/stream",
+      "mediaImage": "https://tvnews4u.com/wp-content/uploads/2017/01/106-big-fm.jpg"
+    },
+    {
+      "mediaId": "57",
+      "mediaTitle": "92.7 BIG FM Delhi",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://sc-bb.1.fm:8017/",
+      "mediaImage": "http://www.rekhathediva.com/2013/13.jpg"
+    },
+    {
+      "mediaId": "58",
+      "mediaTitle": "Bindas Radio",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://50.7.70.66:8666/;stream.mp3",
+      "mediaImage": "http://www.radiobindas.com.np/uploads/slider/2.jpg"
+    },
+    {
+      "mediaId": "59",
+      "mediaTitle": "Bolly 102.9",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://perseus.shoutca.st:8536/;",
+      "mediaImage": "http://fmradios.online/app/upload/0729-2018-02-28.jpg"
+    },
+    {
+      "mediaId": "60",
+      "mediaTitle": "Bolly 92.3",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://174.127.82.223:12010/;",
+      "mediaImage": "https://radioinsight.com/wp-content/images/2016/03/bolly923.png"
+    },
+    {
+      "mediaId": "61",
+      "mediaTitle": "Bollywood Bio",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://hubble.shoutca.st:8104/;",
+      "mediaImage": "https://pbs.twimg.com/profile_images/733282776619737088/MY-LfsTg.jpg"
+    },
+    {
+      "mediaId": "63",
+      "mediaTitle": "Brisvaani AM",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://jatish.serverroom.net:7664/;",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s65300d.png"
+    },
+    {
+      "mediaId": "64",
+      "mediaTitle": "Calm Radio Bollywood",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://streams.calmradio.com/api/295/128/stream/;",
+      "mediaImage": "http://static.radio.net/images/broadcasts/82/bb/35334/c175.png"
+    },
+    {
+      "mediaId": "65",
+      "mediaTitle": "Calm Radio India",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://streams.calmradio.com/api/239/128/stream",
+      "mediaImage": "https://images-na.ssl-images-amazon.com/images/I/41jlXa22aDL._SY355_.png"
+    },
+    {
+      "mediaId": "66",
+      "mediaTitle": "Caprice Radio Classical",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://79.111.14.76:9021/",
+      "mediaImage": "https://cdn.repla.io/logo/network/caprice-radio.png"
+    },
+    {
+      "mediaId": "67",
+      "mediaTitle": "Caprice Radio Indian Cinema",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://79.120.39.202:9089/",
+      "mediaImage": "http://radcap.ru/stylegraf/indiancinema.jpg"
+    },
+    {
+      "mediaId": "68",
+      "mediaTitle": "CINA 1650 AM",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://ice8.securenetsystems.net/CINA?&playSessionID=38D1C936-C443-7619-6C4477E916F7CC6B",
+      "mediaImage": "https://img3.androidappsapk.co/300/1/b/0/com.radioson.CINA1650AM.png"
+    },
+    {
+      "mediaId": "69",
+      "mediaTitle": "City Dance",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://prclive1.listenon.in:8994/;",
+      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/5cWvmCNe2K.png"
+    },
+    {
+      "mediaId": "70",
+      "mediaTitle": "Diverse FM",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://109.169.46.197:8011/stream",
+      "mediaImage": "http://db.radioline.fr/pictures/radio_4940f51d636a5c202e06de884e506c4e/logo200.jpg?size=200"
+    },
+    {
+      "mediaId": "71",
+      "mediaTitle": "Easy 96 FM",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://ice8.securenetsystems.net/EASY96",
+      "mediaImage": "http://blog.liveonlineradio.net/wp-content/uploads/2018/03/Easy-96-FM.jpg"
+    },
+    {
+      "mediaId": "72",
+      "mediaTitle": "Fun Asia",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://funasia.streamguys1.com/live-1?_=1534317152237",
+      "mediaImage": "https://images.radiovolna.net/_files/uploads/posts/2016-06/9dbbcc75fe60e924fd55118bb9a3b62d.png"
+    },
+    {
+      "mediaId": "73",
+      "mediaTitle": "Gaana Club Mirchi",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8",
+      "mediaImage": "http://www.radioandmusic.com/sites/www.radioandmusic.com/files/images/771c7b62d68ee696814800cef78a935d.jpg"
+    },
+    {
+      "mediaId": "74",
+      "mediaTitle": "Gaana Devraag",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
+      "mediaImage": "https://pbs.twimg.com/profile_images/516522229631156224/6p3-AXjh.jpeg"
+    },
+    {
+      "mediaId": "75",
+      "mediaTitle": "Gaana Filmy Mirchi",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8",
+      "mediaImage": "https://a10.gaanacdn.com/images/radio/9/9/crop_175x175_9.jpg"
+    },
+    {
+      "mediaId": "76",
+      "mediaTitle": "Gaana Meethi Mirchi",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+      "mediaImage": "https://pbs.twimg.com/profile_images/3223960837/52dcb6b6386f3e872dde0fd3d7862d8a_400x400.jpeg"
+    },
+    {
+      "mediaId": "77",
+      "mediaTitle": "Gaana DevraagGaana Mehfil-e-Ghazal",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8",
+      "mediaImage": "https://pbs.twimg.com/profile_images/993810250531790848/l2lfTTEz_400x400.jpg"
+    },
+    {
+      "mediaId": "78",
+      "mediaTitle": "Gaana Mirchi 90s",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1_1@335229/master.m3u8",
+      "mediaImage": "https://a10.gaanacdn.com/images/radio/10/10/crop_175x175_10.jpg"
+    },
+    {
+      "mediaId": "79",
+      "mediaTitle": "Gaana Mirchi Edge",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8",
+      "mediaImage": "http://www.onlinefm.xyz/img/brands/common/mirchi_edge_fm.jpg"
+    },
+    {
+      "mediaId": "80",
+      "mediaTitle": "Gaana Mirchi Top 20",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
+      "mediaImage": "https://a10.gaanacdn.com/images/radio/18/18/crop_175x175_18.jpg"
+    },
+    {
+      "mediaId": "7",
+      "mediaTitle": "Radio Sharda India",
+      "mediaDescription": "If you too are craving for something sweet, Meethi mirchi is your station.",
+      "mediaUrl": "http://s8.voscast.com:7738/stream/1/",
+      "mediaImage": "http://db.radioline.fr/pictures/radio_797742757be7dfc780a4ea19d60b5025/logo200.jpg"
+    },
+    {
+      "mediaId": "11",
+      "mediaTitle": "Chennai FM Rainbow 101.4",
+      "mediaDescription": "Chennai FM Rainbow is a radio station that belongs to All India Radio network. It broadcasts from Chennai, Tamil Nadu, India, in Tamil and its contents focus mostly on music, namely Bollywood music.",
+      "mediaUrl": "http://icecast.bkwsu.eu/radiomadhuban.ogg",
+      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pWmZgff3nj.jpeg"
+    },
+    {
+      "mediaId": "10",
+      "mediaTitle": "Planet Radio City Tamil",
+      "mediaDescription": "Broadcasting from India, this is a radio station that belongs to Planet Radio City. It broadcasts in Tamil language and its programming is dedicated to music contents, specially Tamil music.",
+      "mediaUrl": "http://prclive1.listenon.in:9948/;",
+      "mediaImage": "http://www.ymirchi.com/wp-content/uploads/2015/04/radio-city-fm-300x300.jpg"
     }
   ]
 }
