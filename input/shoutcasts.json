@@ -15,6 +15,55 @@
       "mediaImage": "https://cdn-profiles.tunein.com/s302082/images/logoq.png"
     },
     {
+      "mediaId": "74",
+      "mediaTitle": "Gaana Devraag",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
+      "mediaImage": "https://pbs.twimg.com/profile_images/516522229631156224/6p3-AXjh.jpeg"
+    },
+    {
+      "mediaId": "75",
+      "mediaTitle": "Gaana Filmy Mirchi",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8",
+      "mediaImage": "https://a10.gaanacdn.com/images/radio/9/9/crop_175x175_9.jpg"
+    },
+    {
+      "mediaId": "76",
+      "mediaTitle": "Gaana Meethi Mirchi",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+      "mediaImage": "https://pbs.twimg.com/profile_images/3223960837/52dcb6b6386f3e872dde0fd3d7862d8a_400x400.jpeg"
+    },
+    {
+      "mediaId": "77",
+      "mediaTitle": "Gaana DevraagGaana Mehfil-e-Ghazal",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8",
+      "mediaImage": "https://pbs.twimg.com/profile_images/993810250531790848/l2lfTTEz_400x400.jpg"
+    },
+    {
+      "mediaId": "78",
+      "mediaTitle": "Gaana Mirchi 90s",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1_1@335229/master.m3u8",
+      "mediaImage": "https://a10.gaanacdn.com/images/radio/10/10/crop_175x175_10.jpg"
+    },
+    {
+      "mediaId": "79",
+      "mediaTitle": "Gaana Mirchi Edge",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8",
+      "mediaImage": "http://www.onlinefm.xyz/img/brands/common/mirchi_edge_fm.jpg"
+    },
+    {
+      "mediaId": "80",
+      "mediaTitle": "Gaana Mirchi Top 20",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
+      "mediaImage": "https://a10.gaanacdn.com/images/radio/18/18/crop_175x175_18.jpg"
+    },
+    {
       "mediaId": "4",
       "mediaTitle": "radioBollyFM",
       "mediaDescription": "Listen to Bollywood Radio and get daily dose of hot and exclusive updates from Bollywood, Fashion, Shopping, Lifestyle, Travel, Foods, Technology all completely free on radioBollyFM",
@@ -264,7 +313,7 @@
       "mediaTitle": "Aakashvani 106.5 FM",
       "mediaDescription": "Non stop hindi filmy songs",
       "mediaUrl": "http://media.guardian.co.tt:8000/aakashvaniradio",
-      "mediaImage": "https://upload.wikimedia.org/wikipedia/en/0/0d/Aakash_Vani_106.5FM.jp"
+      "mediaImage": "https://upload.wikimedia.org/wikipedia/en/0/0d/Aakash_Vani_106.5FM.jpg"
     },
     {
       "mediaId": "81",
@@ -477,55 +526,6 @@
       "mediaImage": "http://www.radioandmusic.com/sites/www.radioandmusic.com/files/images/771c7b62d68ee696814800cef78a935d.jpg"
     },
     {
-      "mediaId": "74",
-      "mediaTitle": "Gaana Devraag",
-      "mediaDescription": "Non stop hindi filmy songs",
-      "mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
-      "mediaImage": "https://pbs.twimg.com/profile_images/516522229631156224/6p3-AXjh.jpeg"
-    },
-    {
-      "mediaId": "75",
-      "mediaTitle": "Gaana Filmy Mirchi",
-      "mediaDescription": "Non stop hindi filmy songs",
-      "mediaUrl": "https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8",
-      "mediaImage": "https://a10.gaanacdn.com/images/radio/9/9/crop_175x175_9.jpg"
-    },
-    {
-      "mediaId": "76",
-      "mediaTitle": "Gaana Meethi Mirchi",
-      "mediaDescription": "Non stop hindi filmy songs",
-      "mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
-      "mediaImage": "https://pbs.twimg.com/profile_images/3223960837/52dcb6b6386f3e872dde0fd3d7862d8a_400x400.jpeg"
-    },
-    {
-      "mediaId": "77",
-      "mediaTitle": "Gaana DevraagGaana Mehfil-e-Ghazal",
-      "mediaDescription": "Non stop hindi filmy songs",
-      "mediaUrl": "https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8",
-      "mediaImage": "https://pbs.twimg.com/profile_images/993810250531790848/l2lfTTEz_400x400.jpg"
-    },
-    {
-      "mediaId": "78",
-      "mediaTitle": "Gaana Mirchi 90s",
-      "mediaDescription": "Non stop hindi filmy songs",
-      "mediaUrl": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1_1@335229/master.m3u8",
-      "mediaImage": "https://a10.gaanacdn.com/images/radio/10/10/crop_175x175_10.jpg"
-    },
-    {
-      "mediaId": "79",
-      "mediaTitle": "Gaana Mirchi Edge",
-      "mediaDescription": "Non stop hindi filmy songs",
-      "mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8",
-      "mediaImage": "http://www.onlinefm.xyz/img/brands/common/mirchi_edge_fm.jpg"
-    },
-    {
-      "mediaId": "80",
-      "mediaTitle": "Gaana Mirchi Top 20",
-      "mediaDescription": "Non stop hindi filmy songs",
-      "mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
-      "mediaImage": "https://a10.gaanacdn.com/images/radio/18/18/crop_175x175_18.jpg"
-    },
-    {
       "mediaId": "7",
       "mediaTitle": "Radio Sharda India",
       "mediaDescription": "If you too are craving for something sweet, Meethi mirchi is your station.",
@@ -545,6 +545,76 @@
       "mediaDescription": "Broadcasting from India, this is a radio station that belongs to Planet Radio City. It broadcasts in Tamil language and its programming is dedicated to music contents, specially Tamil music.",
       "mediaUrl": "http://prclive1.listenon.in:9948/;",
       "mediaImage": "http://www.ymirchi.com/wp-content/uploads/2015/04/radio-city-fm-300x300.jpg"
+    },
+    {
+      "mediaId": "82",
+      "mediaTitle": "Gaana Pehla Nasha",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8",
+      "mediaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIJ2zBX5fgP_iR4fOBslo7a6LMFl-lRDIMsgTnntMOrzOWloe"
+    },
+    {
+      "mediaId": "83",
+      "mediaTitle": "Gaana Hindi Retro",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8",
+      "mediaImage": "https://a10.gaanacdn.com/images/playlists/61/1017861/crop_480x480_1017861_1450421588.jpg"
+    },
+    {
+      "mediaId": "84",
+      "mediaTitle": "GS Chatrooms Radio",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://radio.mastfm106.com:9974/;",
+      "mediaImage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/GS-Chatroom.jpg"
+    },
+    {
+      "mediaId": "85",
+      "mediaTitle": "Himal Hindi Classic",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://144.76.110.138:9940/;",
+      "mediaImage": "http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1508790078.jpg"
+    },
+    {
+      "mediaId": "86",
+      "mediaTitle": "Himal Hindi Filmy",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://144.76.110.138:9920/;stream.mp3",
+      "mediaImage": "http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1508790078.jpg"
+    },
+    {
+      "mediaId": "87",
+      "mediaTitle": "Himal Hindi Ghazals",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://144.76.110.138:9810/;",
+      "mediaImage": "http://1.bp.blogspot.com/-9DpcB-ebi3I/VjkBrw3oSiI/AAAAAAAAEIc/R7AKKFgaYVk/s1600/himal-radio-image.jpg"
+    },
+    {
+      "mediaId": "88",
+      "mediaTitle": "Hits Of Bollywood",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://50.7.77.115:8174",
+      "mediaImage": "https://2.bp.blogspot.com/-ltN0hrcHuM4/V_CZoKX0c-I/AAAAAAAAEGQ/x20DuBqefXwPP2ETOobCEneoiIFVnpN-ACLcB/s1600/Hits%2BOf%2BBollywood%2BHindi%2BFM%2BLive%2BStreaming%2BOnline.jpg"
+    },
+    {
+      "mediaId": "89",
+      "mediaTitle": "Hum FM",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://ice10.securenetsystems.net/HUMFM?&playSessionID=CC1A4123-9A56-75AA-610EA26267D92BEF",
+      "mediaImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple2/v4/44/7b/5b/447b5bba-06fa-4bf1-44d8-2d363798e85d/pr_source.png/246x0w.jpg"
+    },
+    {
+      "mediaId": "90",
+      "mediaTitle": "Hum Safar",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://ice2.securenetsystems.net/HUMSAFAR",
+      "mediaImage": "https://www.jagranimages.com/images/28_12_2016-hamsafar.jpg"
+    },
+    {
+      "mediaId": "91",
+      "mediaTitle": "Hungama 90s Once Again",
+      "mediaDescription": "Non stop hindi filmy songs",
+      "mediaUrl": "http://103.16.47.70:7444/;stream.nsv",
+      "mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/52901d102537945edb424b514f89b726_200x200.jpg"
     }
   ]
 }
